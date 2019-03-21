@@ -1,1 +1,1 @@
-# sample-java-maven-application-1
+# sample-java-application-1

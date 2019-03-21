@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.ando.samples</groupId>
-    <artifactId>sample-java-maven-application-1</artifactId>
+    <artifactId>sample-java-application-1</artifactId>
     <version>1.0</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -163,5 +163,5 @@
             </plugin>
         </plugins>
     </build>
-    
+
 </project>
